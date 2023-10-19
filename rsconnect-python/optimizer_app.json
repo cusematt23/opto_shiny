@@ -2,10 +2,10 @@
     "https://api.shinyapps.io": {
         "server_url": "https://api.shinyapps.io",
         "filename": "/Users/matthewmoore/Desktop/coding_projects/optimizer_app",
-        "app_url": "https://mattmoore.shinyapps.io/shiny-optimzer/",
-        "app_id": 10252062,
+        "app_url": "https://mattmoore.shinyapps.io/dfs-optimizer/",
+        "app_id": 10252254,
         "app_guid": null,
-        "title": "shiny-optimzer",
+        "title": "dfs-optimizer",
         "app_mode": "python-shiny",
         "app_store_version": 1
     }
